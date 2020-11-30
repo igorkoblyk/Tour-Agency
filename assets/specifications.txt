@@ -1,0 +1,34 @@
+ 
+HOME (text weight 600, text size 16px, color #000)
+ TOURS
+ DESTINATIONS
+ PAGES
+ BLOG
+
+MENU (text weight 600, text size 13px, color #000)
+
+
+Destination (text weight 600, text size 18px, color #fff)
+The text field is required. (text weight 400, text size 9px, color #f5543f
+Date
+The text field is required.
+People
+The text field is required.
+
+button (space inside 17px 30px)
+button text: Search (text size 15px)
+
+border 1px solid #808080
+
+Popular Destinations (text weight 500, text size 24px, color #fff)
+
+
+button (space inside 10px 23px)
+button text: See all (text size 13px)
+
+Maldives (text weight 600, text size 30px, color #fff)
+Croatia
+India
+Greece
+
+33 tours (text weight 600, text size 18px, color #75c15b)

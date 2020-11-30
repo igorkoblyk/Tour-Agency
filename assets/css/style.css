@@ -1,0 +1,279 @@
+body{
+    font-family: "Montserrat", sans-serif, "Roboto Light", "Arial";
+    font-size: 24px;
+    line-height: 1.5;
+}
+
+.tk-offer {
+    padding: 70px 0;
+    background-image: url('../images/bg-image-10.jpg');
+}
+
+.tk-location {
+    position: relative;
+}
+
+.tk-location:: after{
+    content: '';
+    display: block;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.35);
+    z-index: 2;
+}
+.tk-container{
+    margin: 0 auto;
+    position: relative;
+}
+
+.tk-line{
+    display: flex;
+    }
+
+.tk-slider {
+    position: relative;
+}
+
+.tk-col {
+    flex: 0 0 50%;
+    max-width: 50%;
+}
+
+.tk-slider-inner {
+    width: 860px;
+    display: flex;
+    float: right;
+}
+
+.tk-card {
+    max-width: 415px;
+    border-radius: 8px;
+    overflow: hidden;
+    background-color: #ffffff;
+    margin-left: 30px;
+}
+
+.tk-image-card{
+    position: relative;
+}
+
+.tk-image-card a {
+    line-height: 0;
+}
+
+.tk-image-card img {
+    height: 305px;
+}
+
+.tk-discount-card{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    display: block;
+    padding: 5px 13px;
+    border-radius: 5px;
+    color: #ffffff;
+    background: #ffa133;
+    font-weight: bold;
+}
+
+.tk-card-details{
+    padding: 10px 25px;
+}
+
+.tk-card-details h4 a {
+    color: black;
+}
+
+.tk-card-details span {
+    font-weight: bold;
+}
+
+.tk-details-flex{
+    display: flex;
+}
+
+.tk-card-old-price{
+    text-decoration: line-through;
+    margin-right: 10px;
+}
+
+.tk-card-text-disabled{
+    color: silver;
+}
+
+.tk-text-basic {
+    color: limegreen;
+}
+
+.tk-direction {
+    justify-content: space-around;
+    flex-direction: column;
+    /*!*width: 70px;*!*/
+    height: 160px;
+    position: absolute;
+    top: 50%;
+    right: 0;
+    margin-top: -50px;
+    margin-right: -25px;
+}
+
+.tk-direction-arrow_one, .tk-direction-arrow_two {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border-radius: 50%;
+    border: 1px solid silver;
+}
+
+.tk-direction-arrow-right, .tk-direction-arrow-left {
+    color: silver;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+.tk-offers-text-wrapper{
+    max-width: 480px;
+    padding: 0 0 0 50px;
+    color: white;
+}
+
+.tk-offers-text-wrapper h2 {
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 45px;
+    font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.tk-text-90{
+    font-family: 'Baloo 2', cursive;
+    font-size: 90px;
+    line-height: 90px;
+    color: white;
+}
+
+.tk-text-24{
+    font-size: 24px;
+    color: white;
+}
+.tk-slider-two{
+    position: absolute;
+    margin-left: 500px;
+    color: white;
+    width: 100%;
+}
+
+
+
+
+
+
+
+.tk-Featured_Tours h2{
+color: black;
+}
+
+.tk-Featured_Tours {
+    background: #e8e1e1;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.tk-all-box {
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+}
+
+.tk-box {
+    width: 30%;
+    margin: 15px;
+    overflow: hidden;
+    border-radius: 10px;
+    background: white;
+    padding-bottom: 5px;
+}
+
+.tk-all-box-price {
+    background: limegreen;
+    position: absolute;
+    max-width: 100%;
+    margin-left: 30px;
+    margin-top: 200px;
+    border-radius: 5px;
+    padding: 5px;
+    overflow: hidden;
+}
+
+.tk-price-text-24 {
+    color: white;
+    font-weight: 900;
+    text-align: center;
+    font-size: 24px;
+}
+
+.tk-price-change-text-18 {
+    text-decoration: line-through;
+    padding-right: 10px;
+    font-size: 18px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.tk-text-18 {
+    color: #808080;
+    font-size: 18px;
+    padding: 0 5px;
+}
+
+.tk-datail {
+    display: flex;
+    flex-direction: row;
+}
+
+.tk-rating {
+    font-weight: 600;
+    background: #ffa133;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    border-radius: 20px;
+    width: 40px;
+    margin-left: 25px;
+    margin-top: 10px;
+}
+.tk-reviews{
+    padding-top: 10px;
+}
+
+.tk-descr-datail {
+    padding-left: 110px;
+    padding-top: 10px ;
+    color: #808080;
+    font-size: 18px;
+}
+.tk-all-tours{
+    margin-left: 45%;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+
+.tk-text-allTours {
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #808080;
+    text-decoration: underline;
+}

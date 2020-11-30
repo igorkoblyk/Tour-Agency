@@ -1,0 +1,72 @@
+Featured Tours (text color #000, text size 45px)
+
+Maldives Adventure Tour (text color #000, text size 24px)
+Harmony Hotel 5* (text color #808080, text size 18px)
+
+container (color #ffa133, radius 20px)
+4.9 (weight 600, text size 18px)
+
+4 reviews (text color #808080, text size 18px)
+
+5 days (text color #808080, text size 18px)
+
+container (color #75c15b, radius 5px)
+$1000 (text size 18px)
+$756 (text size 24px)
+
+Lake Como Family Tour
+Ritz Hotel 5*
+
+4.1
+
+5 reviews
+
+7 days
+
+$690
+
+Brisbane & Cairns Tour
+Hilton Hotel 5*
+
+5.5
+
+6 reviews
+
+6 days
+
+$690
+
+Journey to Italy
+Radison Blue Hotel 5*
+
+5.2
+
+2 reviews
+
+6 days
+
+$1000
+
+$615
+
+Private Charters for Surfers
+Even Hotel 4*
+
+5.8
+
+7 reviews
+
+13 days
+
+$680
+
+Adventures in Greece
+Renaissance Hotel 5*
+
+4.8
+
+3 reviews
+
+3 days
+
+See all tours (text color #808080, text size 14px)
