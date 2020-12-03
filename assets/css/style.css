@@ -4,6 +4,53 @@ body{
     line-height: 1.5;
 }
 
+.tk-header{
+    background-color: #535151;
+}
+
+.tk-header-top{
+    background-color: white;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid black;
+    padding: 15px;
+}
+
+.tk-header-top-slider{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tk-menu-af{
+    font-size: 16px;
+    color: silver;
+    }
+
+.btn-group, .dropdown {
+    /*display: inline-block;*/
+    font-weight: 600:
+    font-size: 16px;
+    outline: none;
+}
+
+
+
+.btn-secondary, .dropdown-toggle{
+    color: black;
+    background-color: white;
+    font-weight: 600;
+    border: none;
+}
+
+.tk-header i {
+    padding-right: 5px;
+    font-size:30px;
+}
+
+
+
 .tk-offer {
     padding: 70px 0;
     background-image: url('../images/bg-image-10.jpg');
@@ -92,10 +139,6 @@ body{
     font-weight: bold;
 }
 
-.tk-details-flex{
-    display: flex;
-}
-
 .tk-card-old-price{
     text-decoration: line-through;
     margin-right: 10px;
@@ -171,12 +214,6 @@ h2 {
     color: white;
     width: 100%;
 }
-
-
-
-
-
-
 
 .tk-Featured_Tours h2{
 color: black;
